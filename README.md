@@ -5,7 +5,6 @@
 **Full-Stack Developer & Game Developer**  
 Building scalable web apps and immersive games with modern tech stacks. Passionate about clean code, performance, and player experiences.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?logo=twitter)](https://twitter.com/yourhandle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=globe)](https://yourportfolio.com)
 
