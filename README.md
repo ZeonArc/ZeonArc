@@ -5,8 +5,8 @@
 **Full-Stack Developer & Game Developer**  
 Building scalable web apps and immersive games with modern tech stacks. Passionate about clean code, performance, and player experiences.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=globe)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/harishvdev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=globe)](https://harishvportfolio.vercel.app/)
 
 </div>
 
