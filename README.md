@@ -53,8 +53,7 @@ Building scalable web apps and immersive games with modern tech stacks. Passiona
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="Streak" />
+    <img src="https://myreadme.vercel.app/api/embed/ZeonArc?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
 
 ## 🌟 Achievements
