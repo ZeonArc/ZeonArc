@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00bfff&height=180&section=header&text=Harish%20V&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Unity%20Game%20Developer%20%E2%80%A2%20Gameplay%20Programmer%20%E2%80%A2%20AI%20Systems%20Engineer&descSize=16&descAlignY=60" alt="Harish V — Unity Game Developer, Gameplay Programmer, AI Systems Engineer" width="100%" />
+<img src="assets/banner.svg" alt="Harish V — Unity Game Developer, Gameplay Programmer, AI Systems Engineer" width="100%" />
 
 <a href="https://github.com/ZeonArc">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=780&lines=Unity+Developer;Gameplay+Programmer;AI-Integrated+Systems;Procedural+World+Generation;Full-Stack+Developer;Building+Immersive+Experiences" alt="Typing animation of roles" />
@@ -187,7 +187,7 @@ More on my [GitHub profile](https://github.com/ZeonArc) and [portfolio](https://
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeonArc&bg_color=1a1b27&color=38bdae&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+<img src="https://ghchart.rshah.org/00bfff/ZeonArc" alt="Contribution heatmap" width="85%" />
 
 </div>
 
@@ -197,15 +197,10 @@ More on my [GitHub profile](https://github.com/ZeonArc) and [portfolio](https://
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ZeonArc&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+<img src="assets/achievements.svg" alt="Achievements" width="100%" />
 
 </div>
 
-- 🎓 Unity Certified Associate — Game Developer
-- 🎮 Founder & President of the GForge Game Development Club
-- 🧠 Built AI-integrated gameplay systems
-- 🚀 Developed multiple game and SaaS projects
-- ⚡ Experience with gameplay architecture and procedural systems
 
 ---
 
@@ -248,6 +243,6 @@ More on my [GitHub profile](https://github.com/ZeonArc) and [portfolio](https://
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:0f172a&height=100&section=footer&text=Building%20immersive%20systems%2C%20one%20project%20at%20a%20time.&fontSize=16&fontColor=ffffff&fontAlignY=70" alt="Footer" width="100%" />
+<sub><b>Building immersive systems, one project at a time.</b></sub>
 
 </div>
