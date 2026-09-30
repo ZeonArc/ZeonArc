@@ -69,7 +69,9 @@ A live tracker of what I'm working on. It's rendered from [`data/tracker.json`](
 <br>
 
 <!--ACTIVITY:START-->
-_Updates automatically every few hours._
+- 🔀 Merged pull request in [ZeonArc/ZeonArc](https://github.com/ZeonArc/ZeonArc) — <sub>just now</sub>
+- 🔀 Opened pull request in [ZeonArc/ZeonArc](https://github.com/ZeonArc/ZeonArc) — <sub>just now</sub>
+- ⬆️ Pushed 1 commit to [ZeonArc/ArcEngineC-](https://github.com/ZeonArc/ArcEngineC-) — <sub>7d ago</sub>
 <!--ACTIVITY:END-->
 
 </details>
@@ -79,13 +81,19 @@ _Updates automatically every few hours._
 <br>
 
 <!--REPOS:START-->
-_Updates automatically every few hours._
+| Repository | Language | ⭐ | Last push |
+|---|---|---|---|
+| [ArcEngineC-](https://github.com/ZeonArc/ArcEngineC-) | C# | 1 | 7d ago |
+| [IEEEMetaverse2026](https://github.com/ZeonArc/IEEEMetaverse2026) | C# | 1 | 34d ago |
+| [DevLeap-AI](https://github.com/ZeonArc/DevLeap-AI) | TypeScript | 1 | 42d ago |
+| [finalportfolio](https://github.com/ZeonArc/finalportfolio) | JavaScript | 1 | 48d ago |
+| [TerrariaClone](https://github.com/ZeonArc/TerrariaClone) | C++ | 1 | 166d ago |
 <!--REPOS:END-->
 
 </details>
 
 <!--UPDATED:START-->
-<sub>Last updated: pending first run</sub>
+<sub>Last updated: 2026-09-30 18:50 UTC</sub>
 <!--UPDATED:END-->
 
 ---
