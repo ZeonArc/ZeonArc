@@ -1,0 +1,9 @@
+{
+  "_comment": "Edit this file to update the Focus Tracker in README.md. progress is 0-100. The profile-tracker workflow re-renders the README on every push.",
+  "focus": [
+    { "name": "Gameplay systems architecture", "status": "In progress", "progress": 60 },
+    { "name": "Advanced Unity (DOTS / URP)", "status": "In progress", "progress": 40 },
+    { "name": "AI-driven interactive experiences", "status": "In progress", "progress": 50 },
+    { "name": "Large-scale game project contributions", "status": "Planned", "progress": 20 }
+  ]
+}
