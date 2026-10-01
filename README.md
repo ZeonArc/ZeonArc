@@ -69,11 +69,11 @@ A live tracker of what I'm working on. It's rendered from [`data/tracker.json`](
 <br>
 
 <!--ACTIVITY:START-->
-- ⬆️ Pushed 1 commit to [ZeonArc/ZeonArc](https://github.com/ZeonArc/ZeonArc) — <sub>18h ago</sub>
-- ⬆️ Pushed 1 commit to [ZeonArc/ZeonArc](https://github.com/ZeonArc/ZeonArc) — <sub>18h ago</sub>
-- ✨ Created branch in [ZeonArc/ZeonArc](https://github.com/ZeonArc/ZeonArc) — <sub>18h ago</sub>
-- 🔀 Merged pull request in [ZeonArc/ZeonArc](https://github.com/ZeonArc/ZeonArc) — <sub>17h ago</sub>
-- 🔀 Opened pull request in [ZeonArc/ZeonArc](https://github.com/ZeonArc/ZeonArc) — <sub>17h ago</sub>
+- ⬆️ Pushed 1 commit to [ZeonArc/WebPort](https://github.com/ZeonArc/WebPort) — <sub>7h ago</sub>
+- ⬆️ Pushed 1 commit to [ZeonArc/ZeonArc](https://github.com/ZeonArc/ZeonArc) — <sub>1d ago</sub>
+- ⬆️ Pushed 1 commit to [ZeonArc/ZeonArc](https://github.com/ZeonArc/ZeonArc) — <sub>1d ago</sub>
+- ✨ Created branch in [ZeonArc/ZeonArc](https://github.com/ZeonArc/ZeonArc) — <sub>1d ago</sub>
+- 🔀 Merged pull request in [ZeonArc/ZeonArc](https://github.com/ZeonArc/ZeonArc) — <sub>1d ago</sub>
 <!--ACTIVITY:END-->
 
 </details>
@@ -85,17 +85,17 @@ A live tracker of what I'm working on. It's rendered from [`data/tracker.json`](
 <!--REPOS:START-->
 | Repository | Language | ⭐ | Last push |
 |---|---|---|---|
+| [WebPort](https://github.com/ZeonArc/WebPort) | TypeScript | 0 | 7h ago |
 | [ArcEngineC-](https://github.com/ZeonArc/ArcEngineC-) | C# | 1 | 8d ago |
 | [IEEEMetaverse2026](https://github.com/ZeonArc/IEEEMetaverse2026) | C# | 1 | 35d ago |
-| [DevLeap-AI](https://github.com/ZeonArc/DevLeap-AI) | TypeScript | 1 | 42d ago |
+| [DevLeap-AI](https://github.com/ZeonArc/DevLeap-AI) | TypeScript | 1 | 43d ago |
 | [finalportfolio](https://github.com/ZeonArc/finalportfolio) | JavaScript | 1 | 49d ago |
-| [TerrariaClone](https://github.com/ZeonArc/TerrariaClone) | C++ | 1 | 167d ago |
 <!--REPOS:END-->
 
 </details>
 
 <!--UPDATED:START-->
-<sub>Last updated: 2026-10-01 13:08 UTC</sub>
+<sub>Last updated: 2026-10-01 22:39 UTC</sub>
 <!--UPDATED:END-->
 
 ---
