@@ -69,7 +69,7 @@ A live tracker of what I'm working on. It's rendered from [`data/tracker.json`](
 <br>
 
 <!--ACTIVITY:START-->
-- ⭐ Starred [ZeonArc/WebPort](https://github.com/ZeonArc/WebPort) — <sub>7h ago</sub>
+- ⭐ Starred [ZeonArc/WebPort](https://github.com/ZeonArc/WebPort) — <sub>17h ago</sub>
 - ⬆️ Pushed 1 commit to [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>4d ago</sub>
 - ⬆️ Pushed 1 commit to [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>4d ago</sub>
 - 🔀 Merged pull request in [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>4d ago</sub>
@@ -85,17 +85,17 @@ A live tracker of what I'm working on. It's rendered from [`data/tracker.json`](
 <!--REPOS:START-->
 | Repository | Language | ⭐ | Last push |
 |---|---|---|---|
-| [WebPort](https://github.com/ZeonArc/WebPort) | TypeScript | 1 | 6d ago |
+| [IEEEMetaverse2026](https://github.com/ZeonArc/IEEEMetaverse2026) | C# | 1 | 5h ago |
+| [WebPort](https://github.com/ZeonArc/WebPort) | TypeScript | 1 | 7d ago |
 | [ArcEngineC-](https://github.com/ZeonArc/ArcEngineC-) | C# | 1 | 15d ago |
-| [IEEEMetaverse2026](https://github.com/ZeonArc/IEEEMetaverse2026) | C# | 1 | 42d ago |
-| [DevLeap-AI](https://github.com/ZeonArc/DevLeap-AI) | TypeScript | 1 | 49d ago |
+| [DevLeap-AI](https://github.com/ZeonArc/DevLeap-AI) | TypeScript | 1 | 50d ago |
 | [finalportfolio](https://github.com/ZeonArc/finalportfolio) | JavaScript | 1 | 56d ago |
 <!--REPOS:END-->
 
 </details>
 
 <!--UPDATED:START-->
-<sub>Last updated: 2026-10-08 13:24 UTC</sub>
+<sub>Last updated: 2026-10-08 23:19 UTC</sub>
 <!--UPDATED:END-->
 
 ---
