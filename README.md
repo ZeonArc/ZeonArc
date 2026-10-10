@@ -69,11 +69,11 @@ A live tracker of what I'm working on. It's rendered from [`data/tracker.json`](
 <br>
 
 <!--ACTIVITY:START-->
-- ⭐ Starred [ZeonArc/WebPort](https://github.com/ZeonArc/WebPort) — <sub>1d ago</sub>
-- ⬆️ Pushed 1 commit to [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>5d ago</sub>
-- ⬆️ Pushed 1 commit to [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>5d ago</sub>
-- 🔀 Merged pull request in [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>5d ago</sub>
-- 🔀 Opened pull request in [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>6d ago</sub>
+- ⭐ Starred [ZeonArc/WebPort](https://github.com/ZeonArc/WebPort) — <sub>2d ago</sub>
+- ⬆️ Pushed 1 commit to [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>6d ago</sub>
+- ⬆️ Pushed 1 commit to [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>6d ago</sub>
+- 🔀 Merged pull request in [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>6d ago</sub>
+- 🔀 Opened pull request in [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>7d ago</sub>
 <!--ACTIVITY:END-->
 
 </details>
@@ -86,16 +86,16 @@ A live tracker of what I'm working on. It's rendered from [`data/tracker.json`](
 | Repository | Language | ⭐ | Last push |
 |---|---|---|---|
 | [WebPort](https://github.com/ZeonArc/WebPort) | TypeScript | 1 | 8d ago |
-| [ArcEngineC-](https://github.com/ZeonArc/ArcEngineC-) | C# | 1 | 16d ago |
+| [ArcEngineC-](https://github.com/ZeonArc/ArcEngineC-) | C# | 1 | 17d ago |
 | [DevLeap-AI](https://github.com/ZeonArc/DevLeap-AI) | TypeScript | 1 | 51d ago |
-| [finalportfolio](https://github.com/ZeonArc/finalportfolio) | JavaScript | 1 | 57d ago |
-| [TerrariaClone](https://github.com/ZeonArc/TerrariaClone) | C++ | 1 | 175d ago |
+| [finalportfolio](https://github.com/ZeonArc/finalportfolio) | JavaScript | 1 | 58d ago |
+| [TerrariaClone](https://github.com/ZeonArc/TerrariaClone) | C++ | 1 | 176d ago |
 <!--REPOS:END-->
 
 </details>
 
 <!--UPDATED:START-->
-<sub>Last updated: 2026-10-10 05:48 UTC</sub>
+<sub>Last updated: 2026-10-10 12:28 UTC</sub>
 <!--UPDATED:END-->
 
 ---
