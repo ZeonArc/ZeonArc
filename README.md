@@ -85,9 +85,9 @@ A live tracker of what I'm working on. It's rendered from [`data/tracker.json`](
 <!--REPOS:START-->
 | Repository | Language | ⭐ | Last push |
 |---|---|---|---|
-| [WebPort](https://github.com/ZeonArc/WebPort) | TypeScript | 1 | 19d ago |
+| [WebPort](https://github.com/ZeonArc/WebPort) | TypeScript | 1 | 20d ago |
 | [ArcEngineC-](https://github.com/ZeonArc/ArcEngineC-) | C# | 1 | 28d ago |
-| [DevLeap-AI](https://github.com/ZeonArc/DevLeap-AI) | TypeScript | 1 | 62d ago |
+| [DevLeap-AI](https://github.com/ZeonArc/DevLeap-AI) | TypeScript | 1 | 63d ago |
 | [finalportfolio](https://github.com/ZeonArc/finalportfolio) | JavaScript | 1 | 69d ago |
 | [TerrariaClone](https://github.com/ZeonArc/TerrariaClone) | C++ | 1 | 187d ago |
 <!--REPOS:END-->
@@ -95,7 +95,7 @@ A live tracker of what I'm working on. It's rendered from [`data/tracker.json`](
 </details>
 
 <!--UPDATED:START-->
-<sub>Last updated: 2026-10-21 11:44 UTC</sub>
+<sub>Last updated: 2026-10-21 17:09 UTC</sub>
 <!--UPDATED:END-->
 
 ---
