@@ -69,11 +69,11 @@ A live tracker of what I'm working on. It's rendered from [`data/tracker.json`](
 <br>
 
 <!--ACTIVITY:START-->
-- ⭐ Starred [ZeonArc/WebPort](https://github.com/ZeonArc/WebPort) — <sub>13d ago</sub>
-- ⬆️ Pushed 1 commit to [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>17d ago</sub>
-- ⬆️ Pushed 1 commit to [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>17d ago</sub>
-- 🔀 Merged pull request in [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>17d ago</sub>
-- 🔀 Opened pull request in [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>18d ago</sub>
+- ⭐ Starred [ZeonArc/WebPort](https://github.com/ZeonArc/WebPort) — <sub>14d ago</sub>
+- ⬆️ Pushed 1 commit to [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>18d ago</sub>
+- ⬆️ Pushed 1 commit to [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>18d ago</sub>
+- 🔀 Merged pull request in [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>18d ago</sub>
+- 🔀 Opened pull request in [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>19d ago</sub>
 <!--ACTIVITY:END-->
 
 </details>
@@ -86,16 +86,16 @@ A live tracker of what I'm working on. It's rendered from [`data/tracker.json`](
 | Repository | Language | ⭐ | Last push |
 |---|---|---|---|
 | [WebPort](https://github.com/ZeonArc/WebPort) | TypeScript | 1 | 20d ago |
-| [ArcEngineC-](https://github.com/ZeonArc/ArcEngineC-) | C# | 1 | 28d ago |
+| [ArcEngineC-](https://github.com/ZeonArc/ArcEngineC-) | C# | 1 | 29d ago |
 | [DevLeap-AI](https://github.com/ZeonArc/DevLeap-AI) | TypeScript | 1 | 63d ago |
-| [finalportfolio](https://github.com/ZeonArc/finalportfolio) | JavaScript | 1 | 69d ago |
-| [TerrariaClone](https://github.com/ZeonArc/TerrariaClone) | C++ | 1 | 187d ago |
+| [finalportfolio](https://github.com/ZeonArc/finalportfolio) | JavaScript | 1 | 70d ago |
+| [TerrariaClone](https://github.com/ZeonArc/TerrariaClone) | C++ | 1 | 188d ago |
 <!--REPOS:END-->
 
 </details>
 
 <!--UPDATED:START-->
-<sub>Last updated: 2026-10-22 04:39 UTC</sub>
+<sub>Last updated: 2026-10-22 11:47 UTC</sub>
 <!--UPDATED:END-->
 
 ---
