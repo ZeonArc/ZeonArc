@@ -69,11 +69,11 @@ A live tracker of what I'm working on. It's rendered from [`data/tracker.json`](
 <br>
 
 <!--ACTIVITY:START-->
-- ⭐ Starred [ZeonArc/WebPort](https://github.com/ZeonArc/WebPort) — <sub>15d ago</sub>
-- ⬆️ Pushed 1 commit to [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>19d ago</sub>
-- ⬆️ Pushed 1 commit to [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>19d ago</sub>
-- 🔀 Merged pull request in [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>19d ago</sub>
-- 🔀 Opened pull request in [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>20d ago</sub>
+- ⬆️ Pushed 1 commit to [ZeonArc/booking](https://github.com/ZeonArc/booking) — <sub>5h ago</sub>
+- ⭐ Starred [ZeonArc/WebPort](https://github.com/ZeonArc/WebPort) — <sub>16d ago</sub>
+- ⬆️ Pushed 1 commit to [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>20d ago</sub>
+- ⬆️ Pushed 1 commit to [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>20d ago</sub>
+- 🔀 Merged pull request in [Dr2gOnv1mp1re/SIH-2026](https://github.com/Dr2gOnv1mp1re/SIH-2026) — <sub>20d ago</sub>
 <!--ACTIVITY:END-->
 
 </details>
@@ -85,17 +85,17 @@ A live tracker of what I'm working on. It's rendered from [`data/tracker.json`](
 <!--REPOS:START-->
 | Repository | Language | ⭐ | Last push |
 |---|---|---|---|
-| [booking](https://github.com/ZeonArc/booking) | JavaScript | 0 | 1h ago |
+| [booking](https://github.com/ZeonArc/booking) | JavaScript | 0 | 4h ago |
 | [WebPort](https://github.com/ZeonArc/WebPort) | TypeScript | 1 | 22d ago |
-| [ArcEngineC-](https://github.com/ZeonArc/ArcEngineC-) | C# | 1 | 30d ago |
+| [ArcEngineC-](https://github.com/ZeonArc/ArcEngineC-) | C# | 1 | 31d ago |
 | [DevLeap-AI](https://github.com/ZeonArc/DevLeap-AI) | TypeScript | 1 | 65d ago |
-| [finalportfolio](https://github.com/ZeonArc/finalportfolio) | JavaScript | 1 | 71d ago |
+| [finalportfolio](https://github.com/ZeonArc/finalportfolio) | JavaScript | 1 | 72d ago |
 <!--REPOS:END-->
 
 </details>
 
 <!--UPDATED:START-->
-<sub>Last updated: 2026-10-24 04:32 UTC</sub>
+<sub>Last updated: 2026-10-24 10:54 UTC</sub>
 <!--UPDATED:END-->
 
 ---
