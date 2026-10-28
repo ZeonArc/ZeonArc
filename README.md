@@ -70,10 +70,10 @@ A live tracker of what I'm working on. It's rendered from [`data/tracker.json`](
 
 <!--ACTIVITY:START-->
 - ⬆️ Pushed 1 commit to [ZeonArc/booking](https://github.com/ZeonArc/booking) — <sub>4d ago</sub>
-- ⬆️ Pushed 1 commit to [ZeonArc/booking](https://github.com/ZeonArc/booking) — <sub>3d ago</sub>
-- ⬆️ Pushed 1 commit to [ZeonArc/booking](https://github.com/ZeonArc/booking) — <sub>3d ago</sub>
 - ⬆️ Pushed 1 commit to [ZeonArc/booking](https://github.com/ZeonArc/booking) — <sub>4d ago</sub>
-- ⭐ Starred [ZeonArc/WebPort](https://github.com/ZeonArc/WebPort) — <sub>19d ago</sub>
+- ⬆️ Pushed 1 commit to [ZeonArc/booking](https://github.com/ZeonArc/booking) — <sub>4d ago</sub>
+- ⬆️ Pushed 1 commit to [ZeonArc/booking](https://github.com/ZeonArc/booking) — <sub>4d ago</sub>
+- ⭐ Starred [ZeonArc/WebPort](https://github.com/ZeonArc/WebPort) — <sub>20d ago</sub>
 <!--ACTIVITY:END-->
 
 </details>
@@ -85,17 +85,17 @@ A live tracker of what I'm working on. It's rendered from [`data/tracker.json`](
 <!--REPOS:START-->
 | Repository | Language | ⭐ | Last push |
 |---|---|---|---|
-| [booking](https://github.com/ZeonArc/booking) | JavaScript | 0 | 3d ago |
+| [booking](https://github.com/ZeonArc/booking) | JavaScript | 0 | 4d ago |
 | [WebPort](https://github.com/ZeonArc/WebPort) | TypeScript | 1 | 26d ago |
-| [ArcEngineC-](https://github.com/ZeonArc/ArcEngineC-) | C# | 1 | 34d ago |
+| [ArcEngineC-](https://github.com/ZeonArc/ArcEngineC-) | C# | 1 | 35d ago |
 | [DevLeap-AI](https://github.com/ZeonArc/DevLeap-AI) | TypeScript | 1 | 69d ago |
-| [finalportfolio](https://github.com/ZeonArc/finalportfolio) | JavaScript | 1 | 75d ago |
+| [finalportfolio](https://github.com/ZeonArc/finalportfolio) | JavaScript | 1 | 76d ago |
 <!--REPOS:END-->
 
 </details>
 
 <!--UPDATED:START-->
-<sub>Last updated: 2026-10-28 05:37 UTC</sub>
+<sub>Last updated: 2026-10-28 12:48 UTC</sub>
 <!--UPDATED:END-->
 
 ---
