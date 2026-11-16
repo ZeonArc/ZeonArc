@@ -85,16 +85,16 @@ A live tracker of what I'm working on. It's rendered from [`data/tracker.json`](
 | Repository | Language | ⭐ | Last push |
 |---|---|---|---|
 | [booking](https://github.com/ZeonArc/booking) | JavaScript | 0 | 23d ago |
-| [WebPort](https://github.com/ZeonArc/WebPort) | TypeScript | 1 | 45d ago |
-| [ArcEngineC-](https://github.com/ZeonArc/ArcEngineC-) | C# | 1 | 53d ago |
-| [DevLeap-AI](https://github.com/ZeonArc/DevLeap-AI) | TypeScript | 1 | 88d ago |
-| [finalportfolio](https://github.com/ZeonArc/finalportfolio) | JavaScript | 1 | 94d ago |
+| [WebPort](https://github.com/ZeonArc/WebPort) | TypeScript | 1 | 46d ago |
+| [ArcEngineC-](https://github.com/ZeonArc/ArcEngineC-) | C# | 1 | 54d ago |
+| [DevLeap-AI](https://github.com/ZeonArc/DevLeap-AI) | TypeScript | 1 | 89d ago |
+| [finalportfolio](https://github.com/ZeonArc/finalportfolio) | JavaScript | 1 | 95d ago |
 <!--REPOS:END-->
 
 </details>
 
 <!--UPDATED:START-->
-<sub>Last updated: 2026-11-16 06:21 UTC</sub>
+<sub>Last updated: 2026-11-16 21:58 UTC</sub>
 <!--UPDATED:END-->
 
 ---
